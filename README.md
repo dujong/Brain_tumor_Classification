@@ -1,4 +1,4 @@
-# Brain_tumor_Detection
+# Brain_tumor_Classification
 Tensorflow와 Keras를 활용한 뇌종양 식별기   
 ### Dataset
 https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection  <br>
